@@ -2,7 +2,11 @@
 
 I was so inspired by the original [Flag of Earth](http://flagofearth.org/original.html), I wanted to try creating something similar in Python.
 
-- like orignal version, just use simple circles for elegance
+The Original:
+
+![](./original_flag_of_earth.png)
+
+- like original version, just use simple circles for elegance
 - include Sun, Earth, Moon
 - colors should reflect something... effective temperatures? 
   - should moon be white or black?
