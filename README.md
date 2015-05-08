@@ -13,5 +13,5 @@ The Original:
   - also color palette should be attractive to the eye
 - aspect ratio should be Pi/2
 - radii ratio for 3 bodies should be correct
-- inclination of Moon's orbit relative to Earth-Sun orbit should be correct
+- inclination of [Moon's orbit](http://commons.wikimedia.org/wiki/File:Earth-Moon.svg) relative to Earth-Sun orbit should be correct
 - ratio of separation between bodies should be correct
