@@ -18,3 +18,5 @@ The Original:
 
 ## A *New* Flag of Earth
 <img src="./world-flag-alt2.png" style="width: 504px;"/>
+
+Check out the IPython Notebook for details!
