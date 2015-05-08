@@ -16,4 +16,5 @@ The Original:
 - ratio of separation between bodies maybe should be correct
 	- this actually doesn't look that great...
 
-![](./world-flag-alt2.png =x313)
+## A *New* Flag of Earth
+<img src="./world-flag-alt2.png" style="width: 504px;"/>
